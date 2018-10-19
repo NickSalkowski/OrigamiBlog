@@ -89,7 +89,7 @@ canonifyurls = true
   identifier = "mail"
   name = "Mail"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
-  url = "&#105;&#110;&#102;&#111;&#64;&#111;&#112;&#101;&#110;&#111;&#114;&#105;&#103;&#97;&#109;&#105;&#46;&#99;&#111;&#109;"
+  url = "mailto:&#105;&#110;&#102;&#111;&#64;&#111;&#112;&#101;&#110;&#111;&#114;&#105;&#103;&#97;&#109;&#105;&#46;&#99;&#111;&#109;"
 [[menu.main]]
   weight = 8
   identifier = "copyright"
